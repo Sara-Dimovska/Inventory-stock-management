@@ -1,0 +1,29 @@
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\bin\Debug\семинарска бази.exe.config
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\bin\Debug\семинарска бази.exe
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\bin\Debug\семинарска бази.pdb
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\obj\Debug\семинарска бази.csprojResolveAssemblyReference.cache
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Form1.resources
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Properties.Resources.resources
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\obj\Debug\семинарска бази.csproj.GenerateResource.Cache
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\obj\Debug\семинарска бази.exe
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\obj\Debug\семинарска бази.pdb
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Register.resources
+C:\Users\sara\Desktop\visual studio\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Homepage.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\bin\Debug\семинарска бази.exe.config
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\bin\Debug\семинарска бази.exe
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\bin\Debug\семинарска бази.pdb
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска бази.csprojResolveAssemblyReference.cache
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Properties.Resources.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска бази.csproj.GenerateResource.Cache
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска бази.exe
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска бази.pdb
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Нарачки.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.КорисничкаНајава.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Продукти.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Категории.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Почетна.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Регистрација.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.Добавувачи.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\obj\Debug\семинарска_бази.ПребарувањеПродукти.resources
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\bin\Debug\itextsharp.dll
+C:\Users\kosto\Desktop\семинарска бази\семинарска бази\bin\Debug\itextsharp.xml
