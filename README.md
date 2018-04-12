@@ -1,5 +1,5 @@
 # Inventory stock management 
-C# inventory management with SQL Server database
+C# inventory management with Microsoft SQL Server database
 
 ![Screenshot_1](https://raw.githubusercontent.com/t3mpv4r/Inventory-stock-management/master/Screenshot_4.png)
 
